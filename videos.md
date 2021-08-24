@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: videos
 title: Tag Videos
 permalink: /videos/
 ---
