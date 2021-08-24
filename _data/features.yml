@@ -2,13 +2,13 @@
   description: >
     Videos de entre 10 y 12 minutos que muestran las caraterísticas o funcionalidades 
     principales de las distintas plataformas con las que estamos trabajando y 
-    su intrgración con difrentes tecnologías "on-premises" y nube. 
+    su intrgración con diferentes tecnologías "on-premises" y nube. 
     
 - name: Tutoriales
   description: >
     Tutoriales y "hands-on" labs que puedes seguir por ti mismo
     para familiarizarte con las principales tecnologías de la industria, 
-    que implementan la visión de DevOps OSS y comerciales.
+    que implementan la visión de DevSecOps(OSS y comerciales).
 
 - name: Certificaciones
   description: >
