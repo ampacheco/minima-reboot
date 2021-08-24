@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<h3>Video</h3>
-{% for post in site.tags.video %}
-  <ul>
-      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
-  </ul>
-{% endfor %}
 <div class="list-group">
   <a href="#" class="list-group-item list-group-item-action active">
     Video
@@ -16,3 +10,5 @@ layout: default
     <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action">{{ post.title }}</a>  
   {% endfor %}
 </div>
+
+
