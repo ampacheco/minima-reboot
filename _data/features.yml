@@ -1,16 +1,17 @@
 - name: Videos Cortos
   description: >
     Videos de entre 10 y 12 minutos que muestran las caraterísticas o funcionalidades 
-    principales de las distintas plataformas con las que estamos trabajando Github y Gitlab y 
-    su intrgración con difrentes tecnologías "on premises" y nube. 
+    principales de las distintas plataformas con las que estamos trabajando y 
+    su intrgración con difrentes tecnologías "on-premises" y nube. 
     
 - name: Tutoriales
   description: >
-    Resumen de los principales tutoriales o "hands-on" labs que puedes seguir por ti mismo
-    para familiarizart con la tecnología.
+    Tutoriales y "hands-on" labs que puedes seguir por ti mismo
+    para familiarizarte con las principales tecnologías de la industria, 
+    que implementan la visión de DevOps OSS y comerciales.
 
 - name: Certificaciones
   description: >
-    Certificaciones de la Industria relacionadas con la platforma DevSecOps. Enlaces a la
-    curricula que se pide en las principales plataformas de nube y materiales y enlaces para
-    prepararse para los exámenes.
+    Certificaciones de la Industria para diferentes platformas DevSecOps. Enlaces a la 
+    curricula de cada proveedor y recomendaciones de materiales y sitios para la preparación 
+    de los exámenes.
