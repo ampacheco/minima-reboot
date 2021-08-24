@@ -1,21 +1,16 @@
-- name: Feature 1
+- name: Videos Cortos
   description: >
-    In publishing and graphic design, Lorem ipsum is a placeholder text commonly 
-    used to demonstrate the visual form of a document or a typeface without relying 
-    on meaningful content. Lorem ipsum may be used as a placeholder before final 
-    copy is available. Wikipedia
+    Videos de entre 10 y 12 minutos que muestran las caraterísticas o funcionalidades 
+    principales de las distintas plataformas con las que estamos trabajando Github y Gitlab y 
+    su intrgración con difrentes tecnologías "on premises" y nube. 
+    
+- name: Tutoriales
+  description: >
+    Resumen de los principales tutoriales o "hands-on" labs que puedes seguir por ti mismo
+    para familiarizart con la tecnología.
 
-- name: Feature 2
+- name: Certificaciones
   description: >
-    In publishing and graphic design, Lorem ipsum is a placeholder text commonly 
-    used to demonstrate the visual form of a document or a typeface without relying 
-    on meaningful content. Lorem ipsum may be used as a placeholder before final 
-    copy is available. Wikipedia
-
-- name: Feature 3
-  description: >
-    In publishing and graphic design, Lorem ipsum is a placeholder text commonly 
-    used to demonstrate the visual form of a document or a typeface without relying 
-    on meaningful content. Lorem ipsum may be used as a placeholder before final 
-    copy is available. Wikipedia
-  
+    Certificaciones de la Industria relacionadas con la platforma DevSecOps. Enlaces a la
+    curricula que se pide en las principales plataformas de nube y materiales y enlaces para
+    prepararse para los exámenes.
