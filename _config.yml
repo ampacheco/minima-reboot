@@ -12,6 +12,8 @@ homedescription: >
   Una iniciativa que incorpora tecnologías, plataformas, transformación de personas y procesos 
   para promover la adopción de modelos de desarrollo de aplicaciones nativas de nube y DevSecOps 
   dentro del mercado chileno.
+homecaption: Ver Detalles
+homelink: https://www.gartner.com/en/information-technology/glossary/devsecops
 
 plugins:
   - jekyll-seo-tag
