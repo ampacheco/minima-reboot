@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Posts
+title: Publicaciones
 description: Blog posts
 permalink: /posts/
 ---
