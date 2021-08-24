@@ -7,6 +7,12 @@ description: >
   You can use it with your GitHub Pages site by adding the line
   "theme: aterenin/minima-reboot" to _config.yml.
 
+hometitle: Desarollo de Competencias DevSecOps!
+homedescription: >
+  Una iniciativa que incorpora tecnologías, plataformas, transformación de personas y procesos 
+  para promover la adopción de modelos de desarrollo de aplicaciones nativas de nube y DevSecOps 
+  dentro del mercado chileno.
+
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
