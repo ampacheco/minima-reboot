@@ -8,3 +8,11 @@ layout: default
       <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   </ul>
 {% endfor %}
+<div class="list-group">
+  <a href="#" class="list-group-item list-group-item-action active">
+    Video
+  </a>
+  {% for post in site.tags.video %}
+    <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action">{{ post.title }}</a>  
+  {% endfor %}
+</div>
