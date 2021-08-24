@@ -4,6 +4,7 @@ title: "Workshop de Gitlab en AWS"
 categories: junk
 author: "Alejandro Pacheco"
 meta: "Springfield"
+tag: tutorial
 ---
 
 
