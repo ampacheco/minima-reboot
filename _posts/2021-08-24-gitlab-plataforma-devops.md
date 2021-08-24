@@ -2,7 +2,7 @@
 layout: post
 title: "Gitlab como Plataforma de DevOps"
 categories: junk
-author: "Bart Simpson"
+author: "Alejandro Pacheco"
 meta: "Springfield"
 tags: devops gitlab video
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Workshop de Gitlab en AWS"
 categories: junk
-author: "Bart Simpson"
+author: "Alejandro Pacheco"
 meta: "Springfield"
 ---
 

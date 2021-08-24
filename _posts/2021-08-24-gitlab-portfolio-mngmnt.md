@@ -2,7 +2,7 @@
 layout: post
 title: "Gitlab como herramienta para la administración del portafolio de proyectos"
 categories: junk
-author: "Bart Simpson"
+author: "Alejandro Pacheco"
 meta: "Springfield"
 tags: gitlab video
 ---
