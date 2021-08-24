@@ -13,7 +13,7 @@
     que implementan la visión de DevSecOps(OSS y comerciales).
 
 - name: Certificaciones
-  certificaciones:  /certificaciones/
+  certificaciones: /certificaciones/
   description: >
     Certificaciones de la Industria para diferentes platformas DevSecOps. Enlaces a la 
     curricula de cada proveedor y recomendaciones de materiales y sitios para la preparación 
